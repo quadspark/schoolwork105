@@ -1,0 +1,30 @@
+#the_top
+{
+
+    height: 170px;
+    background-color: brown;
+    
+}
+
+
+
+#outer_class
+{
+    padding:  15px;
+    font-size: larger;
+    margin-left: 250px;
+    margin-right: 250px;
+    align: center;
+    width: 900px;
+    background-color: cornsilk;
+    align-self: center;
+}
+
+.form
+{
+    border-style: solid;
+}
+.label
+{
+    font-size: larger;
+}
